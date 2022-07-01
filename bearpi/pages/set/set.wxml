@@ -1,0 +1,63 @@
+<!--pages/set/set.wxml-->
+<view class="text-head">
+  <view class='common-text-left'>
+    <text class="text-head">打开\关闭设备\n</text>
+  </view>
+</view>
+  <view >
+    <text class="text-small">可以自定义时间使设备自启动或手动打开设备</text>
+  </view>
+
+<view>
+  <view class='common-text'>
+    <view class='common-text-left'>
+      <text>红外感应安防设备</text>
+    </view>
+    <view class='common-text-right'>
+      <switch  checked="true" checked color= "rgb(57, 131, 201)"></switch>
+    </view>
+ </view>
+</view>
+
+<view class="div-line"></view>
+
+<view>
+  <view class='common-text'>
+    <view class='common-text-left'>
+      <text>红外感应自启动</text>
+    </view>
+    <view class='common-text-right'>
+      <switch  checked="true" checked color= "rgb(57, 131, 201)"></switch>
+    </view>
+ </view>
+</view>
+
+<view class="div-line"></view>
+
+<view>
+  <view class='common-text'>
+    <view class='common-text-left2'>
+      <text>设定自启动时间</text>
+    </view>
+    <text class='item-array'>></text>
+ </view>
+</view>
+<view class="div-line"></view>
+
+<view>
+  <view class='common-text'>
+    <view class='common-text-left'>
+      <text>摄像头</text>
+    </view>
+    <view class='common-text-right'>
+      <switch  checked="true" checked color= "rgb(57, 131, 201)"></switch>
+    </view>
+ </view>
+</view>
+
+<view class="div-line"></view>
+
+
+
+
+
